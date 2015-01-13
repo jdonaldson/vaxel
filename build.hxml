@@ -1,0 +1,4 @@
+-main Main 
+-cp src/haxe/main/
+-lib luaxe
+-js lua/vaxel.lua
